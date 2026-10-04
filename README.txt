@@ -7,4 +7,4 @@ Folder structure:
 
 Run locally: double-click index.html
 Host free: upload this whole folder to Netlify Drop (app.netlify.com/drop),
-GitHub Pages, or Cloudflare Pages. index.html must stay at the top level.
+GitHub Pages, or Cloudflare Pages. index.html must stay at the top level. 
